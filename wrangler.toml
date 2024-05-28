@@ -1,0 +1,6 @@
+name = "quick-api"
+compatibility_date = "2024-05-28"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AYayAAIncDE4YTVhNjQ0MDUxNTY0Mzg3OWI1MjUyNWJiNjA2MzQ5MXAxMzQ0ODI"
+UPSTASH_REDIS_REST_URL="https://exact-asp-34482.upstash.io"
